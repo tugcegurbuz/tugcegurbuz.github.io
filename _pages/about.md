@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href=https://linktr.ee/tugcegurbuz >Contact</a>
-
+subtitle: <a href=https://linktr.ee/tugcegurbuz >Contact</a> 
 
 profile:
   align: right
@@ -12,7 +11,7 @@ profile:
   more_info:
 
 latest_posts: false # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 news: true # includes a list of news items
 social: false # includes social icons at the bottom of the page
 ---
@@ -24,3 +23,7 @@ My research receives generous support from [Fonds de recherche du Québec](https
 Before starting my Ph.D. program, I was an undergraduate student in the Psychology Department at [Bilkent University](https://w3.bilkent.edu.tr/bilkent/)([Ankara, Turkey](https://en.wikipedia.org/wiki/Ankara)), where I conducted research on computational neuroscience and psychology at [Aysel Sabuncu Brain Research Center (UMRAM)](https://umram.bilkent.edu.tr/).
 
 When I am not doing research, you will find me exploring new activities, experimenting with a variety of cultural dishes in the kitchen, and jamming on my bass guitar. 
+
+<h2>some recent publications</h2>
+
+- Islah, N., Etter, G., Tugsbayar, M., **Gurbuz, T. B.**, Richards, B., & Muller, E. (2023). [Learning to combine top-down context and feed-forward representations under ambiguity with apical and basal dendrites.](https://arxiv.org/abs/2312.05484) *arXiv preprint arXiv:2312.05484*.

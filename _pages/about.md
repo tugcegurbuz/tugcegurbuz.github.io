@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href=https://linktr.ee/tugcegurbuz >Contact</a>
+
 
 profile:
   align: right
@@ -16,8 +17,10 @@ news: true # includes a list of news items
 social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Ph.D. student at [Mila-Quebec AI Institute](https://mila.quebec/en/), [McGill University](https://www.mcgill.ca/), and [Montreal Neurological Institute](https://www.mcgill.ca/neuro/). My research intrest broadly includes reinforcement learning and neuroscience. I aim to deepen our understanding of existing algorithms and develop new ones to have a positive impact on society through real-world applications. I am fascinated by the potential applications of AI in unraveling the complexities  of the brain and behavior, with the aim of contributing to or enhancing human capabilities.  I enjoy working within diverse and multi-disciplinary teams and often draw inspirations from neuroscience and psychology while developing algorithmic solutions.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research receives generous support from [Fonds de recherche du Québec](https://frq.gouv.qc.ca/en/nature-and-technologies/) and [Unifying Neuroscience and Artificial Intelligence - Québec](https://www.unique.quebec/) scholarships.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before starting my Ph.D. program, I was an undergraduate student in the Psychology Department at [Bilkent University](https://w3.bilkent.edu.tr/bilkent/)([Ankara, Turkey](https://en.wikipedia.org/wiki/Ankara)), where I conducted research on computational neuroscience and psychology at [Aysel Sabuncu Brain Research Center (UMRAM)](https://umram.bilkent.edu.tr/).
+
+When I am not doing research, you will find me exploring new activities, experimenting with a variety of cultural dishes in the kitchen, and jamming on my bass guitar. 

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href=https://linktr.ee/tugcegurbuz >Contact</a> 
+subtitle: <a href=https://linktr.ee/tugcegurbuz >Contact info</a> 
 
 profile:
   align: right

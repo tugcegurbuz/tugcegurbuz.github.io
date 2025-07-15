@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href=https://linktr.ee/tugcegurbuz >Contact info</a> 
+subtitle: <a href=https://linktr.ee/tugcegurbuz >Contact info</a>
 
 profile:
   align: right
@@ -22,9 +22,10 @@ My research receives generous support from [Fonds de recherche du Québec](https
 
 Before starting my Ph.D. program, I was an undergraduate student in the Psychology Department at [Bilkent University](https://w3.bilkent.edu.tr/bilkent/)([Ankara, Turkey](https://en.wikipedia.org/wiki/Ankara)), where I conducted research on computational neuroscience and psychology at [Aysel Sabuncu Brain Research Center (UMRAM)](https://umram.bilkent.edu.tr/).
 
-When I am not doing research, you will find me exploring new activities, experimenting with a variety of cultural dishes in the kitchen, and jamming on my bass guitar. 
+When I am not doing research, you will find me exploring new activities, experimenting with a variety of cultural dishes in the kitchen, and jamming on my bass guitar.
 
 <br><br>
+
 ## Blog Posts
 
 After years of dreaming, I’ve finally found the courage to launch my own blog. I’m excited to introduce you to the <a href="https://tugcegurbuz.github.io/robot-psychologist.github.io/about/" style="font-weight: bold; font-size: 1.06em;();"> Robot Psychologist's Blog!
@@ -33,14 +34,13 @@ After years of dreaming, I’ve finally found the courage to launch my own blog.
 
 TBD
 
-
-
-
 <br><br>
+
 ## Projects
 
 TBD
 <br><br>
+
 ## Research Projects
 
 ##### <span style="color: #666; margin-bottom:5px; display:inline-block;"><b>- AI Agents</b></span>
@@ -89,8 +89,6 @@ TBD
   </li>
 </ul>
 
-
-
 ##### <span style="color: #666; margin-bottom:5px; display:inline-block;"><b> - AI for Neuroscience</b></span>
 
 <ul style="margin-left: 10px;">
@@ -116,6 +114,7 @@ TBD
 </ul>
 
 ##### <span style="color: #666; margin-bottom:5px; display:inline-block;"><b> - Computational Neuroscience</b></span>
+
 <ul style="margin-left: 10px;">
   <li style="list-style-type: disc;">
     <div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 30px;">
@@ -137,7 +136,6 @@ TBD
     </div>
   </li>
 </ul>
-
 
 <!-- - [Simulation System Towards Solving Societal-Scale Manipulation](https://arxiv.org/abs/2410.13915) Neurips Safe GenAI Workshop 2024.
 - Islah, N., Etter, G., Tugsbayar, M., **Gurbuz, B. T.**, Richards, B., & Muller, E. (2023). [Learning to combine top-down context and feed-forward representations under ambiguity with apical and basal dendrites.](https://arxiv.org/abs/2312.05484) *arXiv preprint arXiv:2312.05484*.

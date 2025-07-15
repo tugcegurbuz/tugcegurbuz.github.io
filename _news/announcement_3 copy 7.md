@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Instructed the  Machine Learning Principles class as a part of [MiCM](https://www.mcgill.ca/micm/)! ([class material](https://github.com/tugcegurbuz/MiCM-Fundamentals-of-ML))
+Instructed the Machine Learning Principles class as a part of [MiCM](https://www.mcgill.ca/micm/)! ([class material](https://github.com/tugcegurbuz/MiCM-Fundamentals-of-ML))

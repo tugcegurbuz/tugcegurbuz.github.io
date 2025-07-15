@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- I was awarded the [Healthy Brains Healthy Lives Doctoral Excellence Scholarship](https://www.mcgill.ca/hbhl/)! :brain:
+I was awarded the [Healthy Brains Healthy Lives Doctoral Excellence Scholarship](https://www.mcgill.ca/hbhl/)! :brain:

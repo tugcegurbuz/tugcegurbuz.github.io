@@ -26,7 +26,7 @@ When I am not doing research, you will find me exploring new activities, experim
 
 
 
-<h2>Research</h2>
+## Research
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
   <img src="/assets/images/ijcai2025.png" alt="fig" width="120" height="90" style="margin-right: 20px; border-radius: 8px;">

@@ -31,7 +31,7 @@ When I am not doing research, you will find me exploring new activities, experim
 
 <small>Maximilian Puelma Touzel*, Sneheel Sarangi*, Gayatri Krishnakumar*, **Busra Tugce Gurbuz** , Austin Welch, Zachary Yang, Andreea Musulan, Hao Yu, Ethan Kosak-Hine, Tom Gibbs, Camille Thibault, Reihaneh Rabbany, Jean-Francois Godbout, Dan Zhao,Kellin Pelrine.<small>
 
-<img src="ijcai2025.png" alt="fig" width="200" height="150">
+<img src="/assets/images/ijcai2025.png" alt="fig" width="200" height="150">
 
 
 - [Simulation System Towards Solving Societal-Scale Manipulation](https://arxiv.org/abs/2410.13915) Neurips Safe GenAI Workshop 2024.

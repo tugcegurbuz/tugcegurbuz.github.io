@@ -29,7 +29,10 @@ When I am not doing research, you will find me exploring new activities, experim
 <h2>Research</h2>
 - [SandboxSocial: A Sandbox for Social Media Using Multimodal AI Agents](https://arxiv.org/abs/2410.13915) IJCAI 2025.
 
-<small>Maximilian Puelma Touzel*, Sneheel Sarangi*, Gayatri Krishnakumar*, **Busra Tugce Gurbuz** , Austin Welch, Zachary Yang, Andreea Musulan, Hao Yu, Ethan Kosak-Hine, Tom Gibbs, Camille Thibault, Reihaneh Rabbany, Jean-Francois Godbout, Dan Zhao,Kellin Pelrine.<small>
+<small style="margin-left:20px;">
+  *Maximilian Puelma Touzel*, *Sneheel Sarangi*, *Gayatri Krishnakumar*, <b>Busra Tugce Gurbuz</b>, Austin Welch, Zachary Yang, Andreea Musulan, Hao Yu, Ethan Kosak-Hine, Tom Gibbs, Camille Thibault, Reihaneh Rabbany, Jean-Francois Godbout, Dan Zhao, Kellin Pelrine.
+</small>
+
 
 <img src="/assets/images/ijcai2025.png" alt="fig" width="200" height="150">
 

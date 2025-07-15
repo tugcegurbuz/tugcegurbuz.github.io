@@ -29,18 +29,23 @@ When I am not doing research, you will find me exploring new activities, experim
 
 ## Research
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-  <img src="/assets/images/ijcai2025.png" alt="fig" width="120" height="90" style="margin-right: 20px; border-radius: 8px;">
-  <div>
-    <a href="https://arxiv.org/abs/2410.13915" style="font-weight: bold; font-size: 1.1em;">
+<div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 30px;">
+  <div style="font-size: 0.98em; max-width: 75%;">
+    <a href="https://arxiv.org/abs/2410.13915" style="font-weight: bold; font-size: 1.06em;">
       SandboxSocial: A Sandbox for Social Media Using Multimodal AI Agents
     </a>
     <br>
     <small>
       Maximilian Puelma Touzel, Sneheel Sarangi, Gayatri Krishnakumar, <b>Busra Tugce Gurbuz</b>, Austin Welch, Zachary Yang, Andreea Musulan, Hao Yu, Ethan Kosak-Hine, Tom Gibbs, Camille Thibault, Reihaneh Rabbany, Jean-Francois Godbout, Dan Zhao, Kellin Pelrine.
     </small>
+    <br>
+    <small>
+      <span style="color: #666;">IJCAI 2025</span>
+    </small>
   </div>
+  <img src="/assets/images/ijcai2025.png" alt="fig" width="110" height="80" style="margin-left: 25px; border-radius: 8px; object-fit: cover; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
 </div>
+
 
 
 

@@ -27,14 +27,20 @@ When I am not doing research, you will find me exploring new activities, experim
 
 
 <h2>Research</h2>
-- [SandboxSocial: A Sandbox for Social Media Using Multimodal AI Agents](https://arxiv.org/abs/2410.13915) IJCAI 2025.
 
-<small style="margin-left:20px;">
-  *Maximilian Puelma Touzel*, *Sneheel Sarangi*, *Gayatri Krishnakumar*, <b>Busra Tugce Gurbuz</b>, Austin Welch, Zachary Yang, Andreea Musulan, Hao Yu, Ethan Kosak-Hine, Tom Gibbs, Camille Thibault, Reihaneh Rabbany, Jean-Francois Godbout, Dan Zhao, Kellin Pelrine.
-</small>
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <img src="/assets/images/ijcai2025.png" alt="fig" width="120" height="90" style="margin-right: 20px; border-radius: 8px;">
+  <div>
+    <a href="https://arxiv.org/abs/2410.13915" style="font-weight: bold; font-size: 1.1em;">
+      SandboxSocial: A Sandbox for Social Media Using Multimodal AI Agents
+    </a>
+    <br>
+    <small>
+      Maximilian Puelma Touzel, Sneheel Sarangi, Gayatri Krishnakumar, <b>Busra Tugce Gurbuz</b>, Austin Welch, Zachary Yang, Andreea Musulan, Hao Yu, Ethan Kosak-Hine, Tom Gibbs, Camille Thibault, Reihaneh Rabbany, Jean-Francois Godbout, Dan Zhao, Kellin Pelrine.
+    </small>
+  </div>
+</div>
 
-
-<img src="/assets/images/ijcai2025.png" alt="fig" width="200" height="150">
 
 
 - [Simulation System Towards Solving Societal-Scale Manipulation](https://arxiv.org/abs/2410.13915) Neurips Safe GenAI Workshop 2024.

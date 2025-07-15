@@ -26,6 +26,7 @@ When I am not doing research, you will find me exploring new activities, experim
 
 
 
+
 ## Research
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
@@ -43,6 +44,6 @@ When I am not doing research, you will find me exploring new activities, experim
 
 
 
-- [Simulation System Towards Solving Societal-Scale Manipulation](https://arxiv.org/abs/2410.13915) Neurips Safe GenAI Workshop 2024.
+<!-- - [Simulation System Towards Solving Societal-Scale Manipulation](https://arxiv.org/abs/2410.13915) Neurips Safe GenAI Workshop 2024.
 - Islah, N., Etter, G., Tugsbayar, M., **Gurbuz, B. T.**, Richards, B., & Muller, E. (2023). [Learning to combine top-down context and feed-forward representations under ambiguity with apical and basal dendrites.](https://arxiv.org/abs/2312.05484) *arXiv preprint arXiv:2312.05484*.
-- **Gurbuz, B. T.**, & Boyaci, H. (2023). [Tilt aftereffect spreads across the visual field](https://www.sciencedirect.com/science/article/pii/S0042698922001808). Vision Research, 205, 108174. ([bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2022.06.21.496978v1))
+- **Gurbuz, B. T.**, & Boyaci, H. (2023). [Tilt aftereffect spreads across the visual field](https://www.sciencedirect.com/science/article/pii/S0042698922001808). Vision Research, 205, 108174. ([bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2022.06.21.496978v1)) -->

@@ -26,6 +26,12 @@ When I am not doing research, you will find me exploring new activities, experim
 
 <br><br>
 
+### 🚀 Currently Working On:
+
+Using contrastive, self-supervised learning to build world models that, when combined with reinforcement learning, help embodied AI agents learn and adapt more intelligently like humans.
+
+<br><br>
+
 ## Blog Posts
 
 After years of dreaming, I’ve finally found the courage to launch my own blog. I’m excited to introduce you to the <a href="https://tugcegurbuz.github.io/robot-psychologist.github.io/about/" style="font-weight: bold; font-size: 1.06em;();"> Robot Psychologist's Blog!
@@ -37,13 +43,95 @@ TBD
 <br><br>
 
 ## Projects
+Some class/side projects that almost made it to a conference submission if only we had infinite compute, zero schedule conflicts, and maybe a few more hours in the day 🥹
 
-TBD
-<br><br>
+<p style="color:#660;">✨✨ Not every idea has to become a paper (or survive Reviewer #2), sometimes, the best part is just diving in and seeing where curiosity takes you ✨✨</p>
+
+But hey, I still have hope! (That’s why I put them before the actual published work section below 😉) If any of these ideas catch your eye and you want to pick them up, let me know, I’m always up for a collaboration (or just chatting about wild project ideas).
+
+
+
+##### <span style="color: #666; margin-bottom:5px; display:inline-block;"><b> - Vision-Language Models & Reasoning </b></span>
+
+
+<ul style="margin-left: 10px;">
+  <li style="list-style-type: disc;">
+    <div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 30px;">
+      <div style="font-size: 0.98em; max-width: 75%;">
+        <a href="/assets/pdf/VLM Poster.pdf" style="font-weight: bold; font-size: 1.06em;">
+        Improving Compositional Reasoning of Vision Language Models via Multi-Agent Collaboration
+        </a>
+        <br>
+        <small>
+          <b>B.T. Gurbuz</b>, B.L. Dang, Q. Yang
+        </small>
+        <br>
+        <small>
+          <span style="color: #666;"> Links between Computer Vision and Language @Mila,Winter-2025 </span>
+          <br>
+          <span style="color: #666;"> Blog Post is coming soon... </span>
+        </small>
+        <br>
+      </div>
+      <img src="/assets/img/vlm25.png" alt="fig" width="250" height="150" style="margin-left: 25px; border-radius: 8px; object-fit: cover; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+    </div>
+  </li>
+</ul>
+
+##### <span style="color: #666; margin-bottom:5px; display:inline-block;"><b> - Offline Reinforcement Learning </b></span>
+
+
+<ul style="margin-left: 10px;">
+  <li style="list-style-type: disc;">
+    <div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 30px;">
+      <div style="font-size: 0.98em; max-width: 75%;">
+        <a href="" style="font-weight: bold; font-size: 1.06em;">
+        Hiearchical Memory Decision Transformers
+        </a>
+        <br>
+        <small>
+          <b>B.T. Gurbuz</b>
+        </small>
+        <br>
+        <small>
+          <span style="color: #666;"> Reinforcement Learning @Mila,Winter-2024 </span>
+          <br>
+          <span style="color: #666;"> Blog Post is coming soon... </span>
+        </small>
+        <br>
+      </div>
+      <img src="/assets/img/HMDT.png" alt="fig" width="250" height="150" style="margin-left: 25px; border-radius: 8px; object-fit: cover; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+    </div>
+  </li>
+</ul>
 
 ## Research Projects
 
-##### <span style="color: #666; margin-bottom:5px; display:inline-block;"><b>- AI Agents</b></span>
+##### <span style="color: #666; margin-bottom:5px; display:inline-block;"><b>🤖 Reinforcement Learning </b></span>
+
+<ul style="margin-left: 10px;">
+  <li style="list-style-type: disc;">
+    <div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 30px;">
+      <div style="font-size: 0.98em; max-width: 75%;">
+        <a href="" style="font-weight: bold; font-size: 1.06em;">
+          Foraging minds: Exploring memory mechanisms for continual reinforcement learning
+        </a>
+        <br>
+        <small>
+          <b>B.T. Gurbuz</b>, A. Pruss, N.Anand, S. Krishna , E.B. Muller, C. Pack
+        </small>
+        <br>
+        <small>
+          <span style="color: #666;"> Proceedings of Pucón Learning and AI Summit (PLENA) 2024 </span>
+        </small>
+        <br>
+      </div>
+      <img src="/assets/img/plena24.png" alt="fig" width="150" height="150" style="margin-left: 25px; border-radius: 8px; object-fit: cover; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+    </div>
+  </li>
+</ul>
+
+##### <span style="color: #666; margin-bottom:5px; display:inline-block;"><b>🦺 AI Agents & Safety</b></span>
 
 <ul style="margin-left: 10px;">
   <li style="list-style-type: disc;">
@@ -89,7 +177,7 @@ TBD
   </li>
 </ul>
 
-##### <span style="color: #666; margin-bottom:5px; display:inline-block;"><b> - AI for Neuroscience</b></span>
+##### <span style="color: #666; margin-bottom:5px; display:inline-block;"><b> 💡 AI for Neuroscience</b></span>
 
 <ul style="margin-left: 10px;">
   <li style="list-style-type: disc;">
@@ -113,7 +201,29 @@ TBD
   </li>
 </ul>
 
-##### <span style="color: #666; margin-bottom:5px; display:inline-block;"><b> - Computational Neuroscience</b></span>
+##### <span style="color: #666; margin-bottom:5px; display:inline-block;"><b> 🧠 Computational Neuroscience</b></span>
+
+<ul style="margin-left: 10px;">
+  <li style="list-style-type: disc;">
+    <div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 30px;">
+      <div style="font-size: 0.98em; max-width: 75%;">
+        <a href="https://journals.sagepub.com/pb-assets/cmscontent/PEC/ECVP%202024%20Abstracts-1742366759.pdf" style="font-weight: bold; font-size: 1.06em;">
+         Abrupt Learning: How Does the Brain Decide What and When to Learn?
+        </a>
+        <br>
+        <small>
+         <b>B.T. Gurbuz *</b>, A. Pruss*, E.B. Muller, S. Krishna, C. Pack
+        </small>
+        <br>
+        <small>
+          <span style="color: #666;"> Proceedings of European Conference on Visual Perception (ECVP) 2024</span>
+        </small>
+        <br>
+      </div>
+      <img src="/assets/img/ecvp24.png" alt="fig" width="280" height="180" style="margin-left: 25px; border-radius: 8px; object-fit: cover; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+    </div>
+  </li>
+</ul>
 
 <ul style="margin-left: 10px;">
   <li style="list-style-type: disc;">

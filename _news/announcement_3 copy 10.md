@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-⭐️⭐️ **AI Safety, Fairness and Diversity** ⭐️⭐️ participated in the interview for the documentary
-titled Digital Tsunami Mila-Quebec AI Institute
+⭐️⭐️ **AI Safety, Fairness and Diversity** ⭐️⭐️ participated in the interview for the documentary titled Digital Tsunami @Mila-Quebec AI Institute

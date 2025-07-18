@@ -43,16 +43,14 @@ TBD
 <br><br>
 
 ## Projects
+
 Some class/side projects that almost made it to a conference submission if only we had infinite compute, zero schedule conflicts, and maybe a few more hours in the day 🥹
 
 <p style="color:#660;">✨✨ Not every idea has to become a paper (or survive Reviewer #2), sometimes, the best part is just diving in and seeing where curiosity takes you ✨✨</p>
 
 But hey, I still have hope! (That’s why I put them before the actual published work section below 😉) If any of these ideas catch your eye and you want to pick them up, let me know, I’m always up for a collaboration (or just chatting about wild project ideas).
 
-
-
 ##### <span style="color: #666; margin-bottom:5px; display:inline-block;"><b> - Vision-Language Models & Reasoning </b></span>
-
 
 <ul style="margin-left: 10px;">
   <li style="list-style-type: disc;">
@@ -79,7 +77,6 @@ But hey, I still have hope! (That’s why I put them before the actual published
 </ul>
 
 ##### <span style="color: #666; margin-bottom:5px; display:inline-block;"><b> - Offline Reinforcement Learning </b></span>
-
 
 <ul style="margin-left: 10px;">
   <li style="list-style-type: disc;">

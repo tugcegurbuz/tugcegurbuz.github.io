@@ -15,20 +15,42 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 news: true # includes a list of news items
 social: false # includes social icons at the bottom of the page
 ---
+**Ph.D. Candidate ⎮ AI Researcher ⎮ Neuroscience-Inspired AI ⎮ Builder of Human-Centric Intelligence**
 
-I am a Ph.D. student at [Mila-Quebec AI Institute](https://mila.quebec/en/), [McGill University](https://www.mcgill.ca/), and [Montreal Neurological Institute](https://www.mcgill.ca/neuro/), specializing in computational neuroscience, brain-inspired AI, reinforcement learning, and multimodal large language models. I focus on understanding and improving existing algorithms while developing new AI solutions with real-world impact. I am particularly interested in using AI to understand brain function and behavior, with the goal of building intelligent systems that enhance human capabilities. I enjoy working within diverse and multi-disciplinary teams and often draw inspirations from neuroscience and psychology while developing algorithmic solutions.
+Hi, I’m Tuğçe [ˈtuːtʃe] ! 👋
+
+I’m currently pursuing my Ph.D. at [Mila-Quebec AI Institute](https://mila.quebec/en/), [McGill University](https://www.mcgill.ca/), and [Montreal Neurological Institute](https://www.mcgill.ca/neuro/) — institutions that continuously challenge and inspire me to bridge the gap between brains and machines.
+
+#### 🧠 My Research
+
+My work integrates neuroscience, psychology, and artificial intelligence, with a focus on **reinforcement learning (RL)** and **representation learning**. I’m particularly interested in developing compact, structured, and **agent-centric world models** that support *sample-efficient learning, generalization, and planning.*
+
+As RL expands into high-stakes domains like robotics, healthcare, and embodied agents, such representations become critical for building learning systems that are both tractable and trustworthy. Inspired by how humans form internal models of the world, I explore ways to integrate **contrastive learning** and **multimodal large-scale models** into **scalable RL systems** that better reflect how intelligent behavior emerges.
 
 My research receives generous support from [Fonds de recherche du Québec](https://frq.gouv.qc.ca/en/nature-and-technologies/) and [Unifying Neuroscience and Artificial Intelligence - Québec](https://www.unique.quebec/) scholarships.
+ <br><br>
+#### 🌍 Responsible & Impactful AI
+Beyond technical innovation, I’m driven by the question: “How can we ensure AI truly benefits society?”
+I'm deeply invested in **AI safety**, **ethical development**, and **socially impactful applications**, particularly in domains like healthcare, mental health, and human-AI collaboration. If you're working on projects aligned with these goals, I’d love to connect — [feel free to reach out](https://linktr.ee/tugcegurbuz).
 
-Before starting my Ph.D. program, I was an undergraduate student in the Psychology Department at [Bilkent University](https://w3.bilkent.edu.tr/bilkent/)([Ankara, Turkey](https://en.wikipedia.org/wiki/Ankara)), where I conducted research on computational neuroscience and psychology at [Aysel Sabuncu Brain Research Center (UMRAM)](https://umram.bilkent.edu.tr/).
+<br><br>
+#### 👩🏻‍🎓 Before starting my Ph.D. program
+
+I was an undergraduate student in the Psychology Department at [Bilkent University](https://w3.bilkent.edu.tr/bilkent/)([Ankara, Turkey](https://en.wikipedia.org/wiki/Ankara)) with a computational and cognitive neuroscience specialization. I also conducted research on computational neuroscience and psychology at [Aysel Sabuncu Brain Research Center (UMRAM)](https://umram.bilkent.edu.tr/) where I used artificial neural networks to model one of the visual illusions we experience. 🔮
 
 When I am not doing research, you will find me exploring new activities, experimenting with a variety of cultural dishes in the kitchen, and jamming on my bass guitar.
 
 <br><br>
+#### 🌟 My Approach
+Grounded in formal scientific training through my neuroscience and psychology degrees, I bring a strong emphasis on precision, methodological rigor, and long-term research impact. These principles, combined with the iterative and exploratory mindset of machine learning, shape how I frame questions, build models, and collaborate on research.
 
-### 🚀 Currently Working On:
-
-Using contrastive, self-supervised learning to build world models that, when combined with reinforcement learning, help embodied AI agents learn and adapt more intelligently like humans.
+<br><br>
+#### 🌸 Beyond the Research
+When I'm not thinking about how brains and machines learn, you’ll likely find me:
+- Cooking dishes from around the world — 40 countries and counting!
+- Playing bass guitar (once a professional musician, now a home-musician).
+- Strength training and experimenting with calisthenics and vertical pole fitness.
+- Traveling, exploring new cultures, and seeking inspiration from unexpected places.
 
 <br><br>
 
@@ -42,7 +64,7 @@ TBD
 
 <br><br>
 
-## Projects
+## Not-Published Projects
 
 Some class/side projects that almost made it to a conference submission if only we had infinite compute, zero schedule conflicts, and maybe a few more hours in the day 🥹
 
@@ -102,7 +124,7 @@ But hey, I still have hope! (That’s why I put them before the actual published
   </li>
 </ul>
 
-## Research Projects
+## Published Projects
 
 ##### <span style="color: #666; margin-bottom:5px; display:inline-block;"><b>🤖 Reinforcement Learning </b></span>
 
